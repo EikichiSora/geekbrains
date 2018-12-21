@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  <script>
+
+  // Task 1
+    var name = "василий";
+    var admin = name;
+    alert(admin);
+
+  // Task 2
+    var temp_c = 10;
+    var temp_f = (9 / 5) * temp_c + 32;
+    alert(temp_f);
+
+
+  // Task 3
+    var calc = 1000 + "108";
+    alert(calc);
+
+  </script>
+</body>
+</html>
